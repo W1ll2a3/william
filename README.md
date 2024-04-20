@@ -1,0 +1,2 @@
+# william
+setting up git
